@@ -1,6 +1,6 @@
 # Chris MacDougald
 
-(https://www.crmacd.com/)
+https://www.crmacd.com/
 
 ## Academic, Builder, Creator, Developer
 
