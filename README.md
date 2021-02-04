@@ -9,3 +9,5 @@
 * [Twitter](https://www.twitter.com/crmacd)
 
 <sup>#domesticabusesurvivor 2018-09 - 2020-04</sup>
+
+![](https://komarev.com/ghpvc/?username=crmacd&color=lightgrey)
